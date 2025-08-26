@@ -8,7 +8,7 @@ Features keyboard navigation, focus styles, hover states, and mobile-first break
 
 
 ## Live Demo
-Add your link here
+[ View Project Here ](https://ekthiar.github.io/Google-Home-Page/)
 
 ## Notes
 This project is for educational purposes only. All trademarks are the property of their respective owners.
